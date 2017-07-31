@@ -1,0 +1,142 @@
+.display {
+    border: 1px solid #AAA;
+    padding: 20px;
+    font-size: 20px;
+    width: 295px;
+    text-align: right;
+    height: 25px;
+    display: inline-block;;
+}
+
+body {
+    background-image: url("giphy.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+}
+span
+ {
+    display: block;
+    /*float: right;*/
+    position: relative;
+    cursor: pointer;
+    -moz-background-clip:border;
+    -moz-background-inline-policy:continuous;
+    -moz-background-origin:padding;
+    color:##b3cde0;
+    font-size: 1.8em;
+    top: 10px;
+  }
+/*input {
+    text-align: right;
+}*/
+
+.container {
+
+text-align: center;
+
+}
+h1 {
+  text-align: center;
+  font-family: 'Calligraffitti', cursive;
+  color: grey;
+  font-size: 50px;
+}
+div {
+padding: 5px;
+}
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.operator {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.operator:hover {background-color: #3e8e41}
+
+.operator:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#ceterisparibus {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+#ceterisparibus:hover {background-color: #3e8e41}
+
+#ceterisparibus:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#total {
+padding: 15px 25px;
+margin: auto;
+
+}
+.first{
+  margin-left: auto;
+  margin-right: auto;
+  text-decoration-color: white;
+}
+
+
+#clear {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+#clear:hover {background-color: #3e8e41}
+
+#clear:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
